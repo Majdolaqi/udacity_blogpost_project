@@ -15,7 +15,7 @@ You will also need to install various libraries imported by and used by this pro
 ## Motivation
 The project, in its current state, mainly aims to derive various insights around the salary of a software developer.
 
-You can read more about the statistics and conclusions derived by this project by following the blog post.
+You can read more about the statistics and conclusions derived by this project by following the [blog post](https://medium.com/@pritishmishra_72667/salaries-of-software-devs-a-look-at-the-last-decade-2b40d8eda5d8).
 
 There were various challenges to the implementation of the project. Most of them have been captured in the notebook.
 
