@@ -27,5 +27,5 @@ You will find a lot of code duplicated. Again, this is just for the purpose of i
 ## Licensing & Acknowledgement
 This project has not been placed under any license. So, you can replicate, edit or share the project.
 
-Data used here has been downloaded from the [Stack Overflow annual developer survey](https://insights.stackoverflow.com/survey) under the the [Open Database License (ODbL)](Open Database License (ODbL)).
+Data used here has been downloaded from the [Stack Overflow annual developer survey](https://insights.stackoverflow.com/survey) under the the [Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/1.0/).
 
