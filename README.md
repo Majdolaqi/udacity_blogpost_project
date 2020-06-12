@@ -10,6 +10,8 @@ You will need to download the raw datafiles of the survey from the link above.
 
 The naming convention of the survey files is 'stack_overflow_{year_name}.csv'. This should be placed in the root directory of the project. You run the first cell in the notebook to check if this works.
 
+You will also need to install various libraries imported by and used by this project. You can use any package manager like pip to do so. I will be including a `requirements.txt` file later on.
+
 ## Motivation
 The project, in its current state, mainly aims to derive various insights around the salary of a software developer.
 
